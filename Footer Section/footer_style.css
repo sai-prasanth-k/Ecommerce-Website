@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #0d2436;
+    background-size: cover;
+    height: 100vh;
+}
+
+.icon-container {
+    border-radius: 100%;
+    background-color: #152c3e;
+    color: #5a7184;
+
+}
+
+.address-para {
+    color: #5a7184;
+}
+
+.footer-image {
+    width: 40%;
+}
+
+.get-know-heading {
+    font-size: 16px;
+    color: #5a7184;
+    font-weight: 700;
+    list-style-type: none;
+}
+
+.list-items {
+    color: #5a7184;
+    font-size: 14px;
+    list-style-type: none;
+}
+
+.horti-line {
+    border-width: 2px;
+    border-color: #5a7184;
+}
+.copyright-ecommerce {
+    color: #5a7184;
+    
+}
